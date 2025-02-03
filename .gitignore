@@ -1,5 +1,6 @@
 *
 !*.asm
 !*.gitignore
+!src
 !compile.sh
 !README.md
